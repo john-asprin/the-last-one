@@ -3,6 +3,7 @@ import moment from "moment";
 import simpleGit from "simple-git";
 import random from "random";
 
+
 const path = "./data.json";
 
 const markCommit = (x, y) => {
